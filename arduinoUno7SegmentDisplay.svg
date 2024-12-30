@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Digital by H.Neemann -->
+<!-- created: Mon Dec 30 18:31:10 CET 2024 -->
+
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="67.2mm"
+   height="42.75mm"
+   viewBox="238 157 448 285">
+<g stroke-linecap="square">
+<path d="M 590,280 L 600,280" stroke="#000000" stroke-width="4.0" fill="none"/>
+<path d="M 549,290 L 549,270" stroke="#000000" stroke-width="4.0" fill="none"/>
+<path d="M 549,280 L 564,280" stroke="#000000" stroke-width="4.0" fill="none"/>
+<path d="M 520,280 L 529,280" stroke="#000000" stroke-width="4.0" fill="none"/>
+<path d="M 590,340 L 600,340" stroke="#000000" stroke-width="4.0" fill="none"/>
+<path d="M 549,350 L 549,330" stroke="#000000" stroke-width="4.0" fill="none"/>
+<path d="M 549,340 L 564,340" stroke="#000000" stroke-width="4.0" fill="none"/>
+<path d="M 520,340 L 529,340" stroke="#000000" stroke-width="4.0" fill="none"/>
+<path d="M 590,400 L 600,400" stroke="#000000" stroke-width="4.0" fill="none"/>
+<path d="M 549,410 L 549,390" stroke="#000000" stroke-width="4.0" fill="none"/>
+<path d="M 549,400 L 564,400" stroke="#000000" stroke-width="4.0" fill="none"/>
+<path d="M 520,400 L 529,400" stroke="#000000" stroke-width="4.0" fill="none"/>
+<path d="M 440,400 L 520,400" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M 600,400 L 680,400 L 680,340 L 600,340" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M 440,340 L 520,340" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M 440,280 L 520,280" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M 600,280 L 680,280 L 680,220 L 440,220" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M 680,280 L 680,340" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M 532,260 L 541,269" stroke="#000000" stroke-width="2.0" fill="none"/>
+<path d="M 531,262 L 531,259 L 534,259" stroke="#000000" stroke-width="2.0" fill="none"/>
+<path d="M 538,254 L 547,263" stroke="#000000" stroke-width="2.0" fill="none"/>
+<path d="M 537,256 L 537,253 L 540,253" stroke="#000000" stroke-width="2.0" fill="none"/>
+<path d="M 532,320 L 541,329" stroke="#000000" stroke-width="2.0" fill="none"/>
+<path d="M 531,322 L 531,319 L 534,319" stroke="#000000" stroke-width="2.0" fill="none"/>
+<path d="M 538,314 L 547,323" stroke="#000000" stroke-width="2.0" fill="none"/>
+<path d="M 537,316 L 537,313 L 540,313" stroke="#000000" stroke-width="2.0" fill="none"/>
+<path d="M 532,380 L 541,389" stroke="#000000" stroke-width="2.0" fill="none"/>
+<path d="M 531,382 L 531,379 L 534,379" stroke="#000000" stroke-width="2.0" fill="none"/>
+<path d="M 538,374 L 547,383" stroke="#000000" stroke-width="2.0" fill="none"/>
+<path d="M 537,376 L 537,373 L 540,373" stroke="#000000" stroke-width="2.0" fill="none"/>
+<path d="M 440,230 L 440,210" stroke="#000000" stroke-width="6.0" fill="none"/>
+<g>
+<circle cx="680.0" cy="340.0" r="4.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+<circle cx="680.0" cy="280.0" r="4.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+</g>
+<g>
+<path d="M 409,265 L 439,265 L 439,295 L 409,295 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<circle cx="424.0" cy="280.0" r="9.0" stroke="#000000" stroke-width="4.0" fill="none" />
+<text text-anchor="end" x="395.0" y="289.0" fill="#000000" style="font-size:24px"><tspan style="font-style:italic;">Digital<tspan style="font-size:80%;baseline-shift:sub;">07</tspan></tspan></text>
+<circle cx="440.0" cy="280.0" r="2.0" stroke="#b20000" stroke-width="4.0" fill="#b20000" />
+</g>
+<g>
+<path d="M 409,325 L 439,325 L 439,355 L 409,355 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<circle cx="424.0" cy="340.0" r="9.0" stroke="#000000" stroke-width="4.0" fill="none" />
+<text text-anchor="end" x="395.0" y="349.0" fill="#000000" style="font-size:24px"><tspan style="font-style:italic;">Digital<tspan style="font-size:80%;baseline-shift:sub;">06</tspan></tspan></text>
+<circle cx="440.0" cy="340.0" r="2.0" stroke="#b20000" stroke-width="4.0" fill="#b20000" />
+</g>
+<g>
+<path d="M 409,385 L 439,385 L 439,415 L 409,415 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<circle cx="424.0" cy="400.0" r="9.0" stroke="#000000" stroke-width="4.0" fill="none" />
+<text text-anchor="end" x="395.0" y="409.0" fill="#000000" style="font-size:24px"><tspan style="font-style:italic;">Digital<tspan style="font-size:80%;baseline-shift:sub;">05</tspan></tspan></text>
+<circle cx="440.0" cy="400.0" r="2.0" stroke="#b20000" stroke-width="4.0" fill="#b20000" />
+</g>
+<g>
+<circle cx="440.0" cy="220.0" r="2.0" stroke="#b20000" stroke-width="4.0" fill="#b20000" />
+</g>
+<g>
+<text text-anchor="start" x="560.0" y="258.0" fill="#000000" style="font-size:24px">220 Ohm</text>
+</g>
+<g>
+<text text-anchor="start" x="242.0" y="177.0" fill="#000000" style="font-size:24px">Arduino Uno</text>
+<path d="M 240,180 L 460,180 L 460,440 L 240,440 Z" stroke-dasharray="4.0,4.0" stroke="#000000" stroke-width="1.0" fill="none"/>
+</g>
+<g>
+<text text-anchor="start" x="560.0" y="318.0" fill="#000000" style="font-size:24px">220 Ohm</text>
+</g>
+<g>
+<text text-anchor="start" x="560.0" y="378.0" fill="#000000" style="font-size:24px">220 Ohm</text>
+</g>
+<g>
+<path d="M 589,287 L 564,287 L 564,273 L 589,273 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<path d="M 531,290 L 531,270 L 549,280 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<circle cx="520.0" cy="280.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+<circle cx="600.0" cy="280.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+</g>
+<g>
+<path d="M 589,347 L 564,347 L 564,333 L 589,333 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<path d="M 531,350 L 531,330 L 549,340 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<circle cx="520.0" cy="340.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+<circle cx="600.0" cy="340.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+</g>
+<g>
+<path d="M 589,407 L 564,407 L 564,393 L 589,393 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<path d="M 531,410 L 531,390 L 549,400 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<circle cx="520.0" cy="400.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+<circle cx="600.0" cy="400.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+</g>
+</g>
+</svg>
